@@ -1,6 +1,5 @@
-# Project 1: Incident SLA Breach Analysis
+# Project 1: Incident SLA Breach Analysis (Sample Data Set)
 **ServiceNow ITSM | SQL Portfolio Project**
-**Author:** Thrusha Sahu | Data Analyst | Hyderabad, India
 
 ---
 
